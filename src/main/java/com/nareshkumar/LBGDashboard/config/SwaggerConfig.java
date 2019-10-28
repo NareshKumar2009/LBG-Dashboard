@@ -33,7 +33,7 @@ public class SwaggerConfig {
 	private ApiInfo metaInfo() {
 		
 		ApiInfo apiInfo = new ApiInfo("LBG Kanban Dashboard", "Kanban Demo", "1.0", "www.nareshkumar.com"
-				,new Contact("O V Naresh Kumar", "www.nareshkumar.org", "xxxxx@gmail.com") 
+				,new Contact("Naresh Kumar", "www.nareshkumar.org", "xxxxx@gmail.com") 
 				, "Apache License", "www.apache.com");
 		
 		return apiInfo;
